@@ -1,6 +1,6 @@
 # To-Do List App
 
-This is a full-stack To-Do List application with user authentication, task sharing, comments, and audit history.  
+This is a To-Do List application with user authentication.  
 It uses **Node.js/Express/MongoDB** for the backend and **HTML/CSS/JS** for the frontend.
 
 ---
